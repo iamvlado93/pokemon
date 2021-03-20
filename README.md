@@ -1,4 +1,4 @@
-https://iamvlado93.github.io/pokemon/.
+http://localhost:3000
 
 # Getting Started with Create React App
 
